@@ -1,0 +1,21 @@
+
+	<div style="border: 2px solid black; padding: 0 15px 0 15px; margin-top: 24px;" class="entry container" >
+	<div style="text-align: right; font-size: 12px; display: inline-block; float: right; margin-top: 8px;" class="timedate">Tuesday, February 04, 2020 @ 9:16 pm</div>
+	<div style="font-size: 24px; font-weight= bold;" class="title"></div>
+	<div class="message"></div>
+</div>
+	<div style="border: 2px solid black; padding: 0 15px 0 15px; margin-top: 24px;" class="entry container" >
+	<div style="text-align: right; font-size: 12px; display: inline-block; float: right; margin-top: 8px;" class="timedate">Tuesday, February 04, 2020 @ 9:16 pm</div>
+	<div style="font-size: 24px; font-weight= bold;" class="title">Ryan's test blog post 3</div>
+	<div class="message">Aaaaaaaaand here's a 3rd message</div>
+</div>
+	<div style="border: 2px solid black; padding: 0 15px 0 15px; margin-top: 24px;" class="entry container" >
+	<div style="text-align: right; font-size: 12px; display: inline-block; float: right; margin-top: 8px;" class="timedate">Tuesday, February 04, 2020 @ 9:16 pm</div>
+	<div style="font-size: 24px; font-weight= bold;" class="title">Ryan's test blog post 2</div>
+	<div class="message">This is a 2nd test message to make sure that the insert form works as intended.</div>
+</div>
+	<div style="border: 2px solid black; padding: 0 15px 0 15px; margin-top: 24px;" class="entry container" >
+	<div style="text-align: right; font-size: 12px; display: inline-block; float: right; margin-top: 8px;" class="timedate">Tuesday, February 04, 2020 @ 9:16 pm</div>
+	<div style="font-size: 24px; font-weight= bold;" class="title">Ryan's test blog post</div>
+	<div class="message">This is a test message to make sure that the insert form works as intended.</div>
+</div>
